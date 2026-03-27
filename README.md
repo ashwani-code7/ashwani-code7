@@ -16,8 +16,8 @@ Lumix Labs works with CTOs and founders who know AI matters for their business a
 
 **What I'm building**
 
-- [`undraft`](https://github.com/ashwani-code7/undraft) — an AI-powered content pipeline. Tracks what resonates, plans what to write, drafts in a consistent voice. Built it for my own LinkedIn presence; it's a decent example of what AI-as-leverage actually looks like in practice.
-- [`MiroCroc`](https://github.com/ashwani-code7/MiroCroc) — a multi-agent social simulation platform. Useful for testing how agent populations behave under different conditions.
+- [`MiroCroc`](https://github.com/lumix-labs/MiroCroc) — a multi-agent social simulation platform. Useful for testing how agent populations behave under different conditions and at scale.
+- [`agency-skills`](https://github.com/lumix-labs/agency-skills) — a collection of reusable skills for AI coding agents. Built for Claude Code; covers engineering, content, design, sales, and testing workflows.
 - [QZ Vault](https://qzvault.com) — a mobile-first quiz and knowledge-sharing platform. React Native, Go backend, live rooms, team collaboration.
 
 ---
