@@ -1,45 +1,45 @@
-# 👋 Hi, I'm Ashwani
+# Ashwani Karoriwal
 
-## Building BigTech Engineering Power Without BigTech Budgets
+Founder & CEO at [Lumix Labs](https://lumix-labs.com) — an AI-native product and implementation lab.
 
-I'm the creator of [Swift](https://lumix-labs.github.io/swift/) - enterprise-grade developer tooling that helps engineering teams tackle technical debt and ship code faster.
-
-### 🚀 What I'm Building
-
-After working at Meta, I noticed something fascinating: **smaller engineering teams face the same technical debt challenges as BigTech companies, but without the tools or resources to solve them effectively.**
-
-That's why I'm building Swift - to bring enterprise-level capabilities to growing engineering teams:
-
-- 📊 **Code Intelligence Engine** - Visualize your codebase, quantify technical debt, and get intelligent refactoring suggestions
-- 🏎️ **Deployment Acceleration** - Transform deployment pipelines from weekly cycles to daily releases
-- 🛡️ **System Stability Tools** - Implement BigTech-inspired safeguards to reduce incidents without slowing innovation
-- 📈 **Engineering Metrics Dashboard** - Give CTOs the insights they need to make strategic modernization decisions
-
-### 🔧 Recent Projects
-
-- **[Swift](https://github.com/lumix-labs/swift)** - The main platform bringing BigTech engineering capabilities to teams of all sizes
-- **[Swift-Coder](https://github.com/lumix-labs/swift-coder)** - A ready-to-use MCP server that turns Claude AI into a powerful coding assistant
-- **[Engineering Metrics Dashboard](https://github.com/lumix-labs/swift-dashboard)** - Visualizing key DORA metrics for engineering leaders
-
-### 💡 My Engineering Philosophy
-
-I believe in:
-- Building in public and sharing the journey
-- Creating tools that enhance existing workflows rather than replacing them
-- Making advanced engineering capabilities accessible to teams of all sizes
-- Solving real problems with lightweight, non-invasive solutions
-
-### 📣 Follow My Build Journey
-
-- 🌐 [Product Website](https://lumix-labs.github.io/swift/)
-- 📝 [Development Blog](https://medium.com/@ashwani)
-- 🐦 [Twitter](https://twitter.com/ashwani)
-- 📧 [Subscribe to Newsletter](https://lumix-labs.github.io/swift/#newsletter)
-
-### 🤝 Let's Connect
-
-I'm currently seeking beta testers and collaborators who share my vision for democratizing engineering excellence. If you're interested in enhancing your team's development velocity, code quality, and system stability, I'd love to chat!
+20+ years building software at scale: Meta, Paytm, OVO, ASKME. Now building with precision.
 
 ---
 
-<p align="center"><i>Transforming how engineering teams handle legacy systems, one commit at a time.</i></p>
+**What I do**
+
+I help companies build with AI properly — not pilots, not proofs of concept, not another LLM wrapper. Architecture that holds up. Integration that actually ships. Teams that can maintain it after I leave.
+
+Lumix Labs works with CTOs and founders who know AI matters for their business and need someone with the judgment to do it right.
+
+---
+
+**What I'm building**
+
+- [`undraft`](https://github.com/ashwani-code7/undraft) — an AI-powered content pipeline. Tracks what resonates, plans what to write, drafts in a consistent voice. Built it for my own LinkedIn presence; it's a decent example of what AI-as-leverage actually looks like in practice.
+- [`MiroCroc`](https://github.com/ashwani-code7/MiroCroc) — a multi-agent social simulation platform. Useful for testing how agent populations behave under different conditions.
+- [QZ Vault](https://qzvault.com) — a mobile-first quiz and knowledge-sharing platform. React Native, Go backend, live rooms, team collaboration.
+
+---
+
+**How I think about AI**
+
+AI doesn't replace judgment — it amplifies it. The bottleneck in most AI initiatives isn't the technology. It's the clarity of the problem and the quality of the decisions being made around it.
+
+Most companies approach AI tactically — one tool, one workflow. I think in systems: where AI creates compounding returns, where it creates hidden debt, how to design for the next three years, not just the next sprint.
+
+---
+
+**Background**
+
+Based in India. Working globally.
+
+Ex-Meta (content moderation infrastructure), ex-Paytm, ex-OVO, ex-ASKME. Built across India, Southeast Asia, and global tech orgs.
+
+---
+
+**Connect**
+
+If you're a CTO or founder working through a serious AI implementation decision — not a vendor evaluation, a real architectural question — I'm worth a conversation.
+
+[LinkedIn](https://linkedin.com/in/karoriwal) · [Lumix Labs](https://lumix-labs.com)
