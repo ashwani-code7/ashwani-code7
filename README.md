@@ -16,8 +16,8 @@ Lumix Labs works with CTOs and founders who know AI matters for their business a
 
 **What I'm building**
 
-- [`MiroCroc`](https://github.com/lumix-labs/MiroCroc) — a multi-agent social simulation platform. Useful for testing how agent populations behave under different conditions and at scale.
-- [`agency-skills`](https://github.com/lumix-labs/agency-skills) — a collection of reusable skills for AI coding agents. Built for Claude Code; covers engineering, content, design, sales, and testing workflows.
+- [`MiroCroc`](https://github.com/lumix-labs/MiroCroc) — fork of MiroFish, a multi-agent social simulation platform. Contributing to and extending it for our use cases.
+- [`agency-skills`](https://github.com/lumix-labs/agency-skills) — fork of a reusable skills library for AI coding agents (Claude Code). Contributing domain-specific skills across engineering, content, design, sales, and testing workflows.
 - [QZ Vault](https://qzvault.com) — a mobile-first quiz and knowledge-sharing platform. React Native, Go backend, live rooms, team collaboration.
 
 ---
